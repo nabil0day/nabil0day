@@ -2,7 +2,7 @@
  
    -  Currently I'm studying Computer Science And Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
    -  I'm interested in programming.
-   -  I am passionate about problem-solving.
+   -  I'm passionate about problem-solving.
 
 ### My Github Stats
    <img src= "https://github-readme-stats.vercel.app/api?username=nabil0day&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
