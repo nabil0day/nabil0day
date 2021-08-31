@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Hadiur Rahman Nabil
  
    -  Currently I'm studying Computer Science And Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
-   -  I'm interested in programming.
-   -  I'm passionate about problem-solving.
+   -  I'm interested in [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
+   -  I'm passionate about Problem Solving
 
 ### My Github Stats
 
