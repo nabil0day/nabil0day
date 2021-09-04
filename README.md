@@ -6,7 +6,7 @@
 
 ### My Github Stats
 
-   <img src= "https://github-readme-stats.vercel.app/api?username=nabil0day&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+   <p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=nabil0day&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width: 100%;">
 
 ### My Stacks
 
