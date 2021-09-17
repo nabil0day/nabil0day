@@ -4,7 +4,7 @@
    -  I'm interested in [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
    -  I'm passionate about Problem Solving
 
-### Github Stats
+### My Github Stats
 
    <p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=nabil0day&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width: 100%;">
    <p align="center"> <img src= "https://github-readme-streak-stats.herokuapp.com/?user=nabil0day&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width: 100%;">
