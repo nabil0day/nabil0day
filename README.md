@@ -1,11 +1,14 @@
 ### 👋 Hey, I'm Hadiur Rahman Nabil
  
-   -  Currently I'm studying Computer Science And Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
-   -  I'm interested in [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming)
-   -  I'm passionate about Problem Solving
+- 🎓 Studying Computer Science and Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
+- 💻 Passionate about Competitive Programming
+- 🧩 Enthusiastic about Problem Solving
+- 🚀 Driven to explore diverse tech and seek new challenges
+- 🔍 Quick to adapt to changing circumstances and tasks
+
+
 
 ### My Github Stats
-<hr>
 
    <p align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=nabil0day&theme=dark&show_icons=true"style="max-width: 100%;">
    
@@ -17,7 +20,6 @@
 
   
 ### My Stacks
-   <hr>
 
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=007396"> <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=151515">
    
@@ -30,7 +32,6 @@
    
    ![Others](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080)
-<hr>
 
 
 ### My Handles
