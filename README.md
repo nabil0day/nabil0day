@@ -27,7 +27,8 @@
 
 
  
-   <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF" alt="badge-redis"> <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=79740e&labelColor=151515" alt="badge-oracle">
+   <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF" alt="badge-redis"> <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=79740e&labelColor=151515" alt="badge-oracle"> ![MySQL](https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
 
    
    ![Others:](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
