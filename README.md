@@ -23,15 +23,16 @@
 
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=007396"> <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=151515">
    
-   ![Frontend](https://img.shields.io/badge/Frontend-151515?style=for-the-badge&logo=other&logoColor=151515) <img src="https://img.shields.io/badge/HTML-151515?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML"></a> <img src="https://img.shields.io/badge/CSS-151515?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS"></a>
+   ![Frontend:](https://img.shields.io/badge/Frontend-151515?style=for-the-badge&logo=other&logoColor=151515) <img src="https://img.shields.io/badge/HTML-151515?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML"></a> <img src="https://img.shields.io/badge/CSS-151515?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS"></a>
 
 
  
    <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF" alt="badge-redis"> <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=79740e&labelColor=151515" alt="badge-oracle">
 
    
-   ![Others](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080)
+   ![Others:](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8)
+
 
 
 ### My Handles
