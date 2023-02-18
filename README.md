@@ -34,14 +34,17 @@
    ![Others:](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8)
 
-
-
-### My Handles
-<a href="https://www.linkedin.com/in/nabil0day/" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" style="max-width:100%;"></a>
-<a href="https://twitter.com/nabil0day" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=Twitter&amp;logoColor=1DA1F2" style="max-width:100%;"></a>
+### Programming
 <a href="https://github.com/nabil0day" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://codeforces.com/profile/Z3R0-DAY" rel="nofollow"><img src="https://img.shields.io/badge/Z3R0DAY-151515?style=for-the-badge&amp;logo=Codeforces&amp;logoColor=1F8ACB" style="max-width:100%;"></a>
-<a href="https://www.codechef.com/users/nabil_47" rel="nofollow"><img src="https://img.shields.io/badge/nabil_47-151515?style=for-the-badge&amp;logo=CodeChef&amp;logoColor=5B4638" style="max-width:100%;"></a>
+<a href="https://codeforces.com/profile/Z3R0-DAY" rel="nofollow"><img src="https://img.shields.io/badge/Z3R0DAY (CODEFORCES)-151515?style=for-the-badge&amp;logo=Codeforces&amp;logoColor=1F8ACB" style="max-width:100%;"></a>
+<a href="https://www.hackerrank.com/Z3R0_DAY" rel="nofollow"><img src="https://img.shields.io/badge/hADIUR rAHMAN nABIL (HackerRank)-151515?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=GREEN" style="max-width:100%;"></a>
+<a href="https://www.codechef.com/users/nabil_47" rel="nofollow"><img src="https://img.shields.io/badge/nabil_47 (CODECHEF)-151515?style=for-the-badge&amp;logo=CodeChef&amp;logoColor=5B4638" style="max-width:100%;"></a>
+
+### Social Handles
+<a href="https://www.linkedin.com/in/nabil0day/" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" style="max-width:100%;"></a>
+<a href="https://www.facebook.com/Y0ukn0wh0/" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=facebook&amp;logoColor=0077B5" style="max-width:100%;"></a>
+<a href="https://twitter.com/nabil0day" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=Twitter&amp;logoColor=1DA1F2" style="max-width:100%;"></a>
+
 
 ### Contact Me
 [![Email](https://img.shields.io/badge/Email-hadiurrahmannabil@gmail.com-151515?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:hadiurrahmannabil@gmail.com) <a href="https://www.linkedin.com/in/nabil0day/" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" style="max-width:100%;"></a>
