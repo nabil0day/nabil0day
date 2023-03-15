@@ -5,6 +5,7 @@
 - 🧩 Enthusiastic about Problem Solving
 - 🚀 Driven to explore diverse tech and seek new challenges
 - 🔍 Quick to adapt to changing circumstances and tasks
+- 🔗🔒💻 Currently learning Blockchain, Solidity, and Web3 technologies
 
 
 
