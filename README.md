@@ -2,10 +2,9 @@
  
 - 🎓 Studying Computer Science and Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
 - 💻 Passionate about Competitive Programming
-- 🧩 Enthusiastic about Problem Solving
+- 🧩 Enthusiastic about Problem-Solving
 - 🚀 Driven to explore diverse tech and seek new challenges
 - 🔍 Quick to adapt to changing circumstances and tasks
-- 🔗🔒💻 Currently learning Blockchain, Solidity, and Web3 technologies
 
 
 
