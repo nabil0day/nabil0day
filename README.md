@@ -21,7 +21,8 @@
   
 ### My Stacks
 
-<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/JAVA-151515?style=for-the-badge&logo=JAVA&logoColor=007396"> <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=151515"> <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&amp;logo=php&amp;logoColor=blue" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/JAVA-151515?style=for-the-badge&logo=JAVA&logoColor=007396"> <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=151515"> <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&amp;logo=php&amp;logoColor=blue" style="max-width:100%;"><img src="https://img.shields.io/badge/R-151515?style=for-the-badge&logo=r&logoColor=blue" style="max-width:100%;">
+
 
    
    ![Frontend:](https://img.shields.io/badge/Frontend-151515?style=for-the-badge&logo=other&logoColor=151515) <img src="https://img.shields.io/badge/HTML-151515?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML"></a> <img src="https://img.shields.io/badge/CSS-151515?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS"></a>
