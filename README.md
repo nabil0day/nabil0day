@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Hadiur Rahman Nabil
  
 - 🎓 Studying Computer Science and Engineering at American International University-Bangladesh (AIUB)
-- 💼 Research Intern at Advanced Machine Intelligence Research Lab (AMIRL)
+- 💼 Research Intern at Advanced Machine Intelligence Research Lab (AMIR Lab)
 - 💻 Passionate about Competitive Programming
 - 🧩 Enthusiastic about Problem-Solving
 - 🚀 Driven to explore diverse tech and seek new challenges
