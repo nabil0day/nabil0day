@@ -34,7 +34,8 @@
 
    
    ![Others:](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8)
+![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+
 
 ### Programming
 <a href="https://github.com/nabil0day" rel="nofollow"><img src="https://img.shields.io/badge/Hadiur Rahman Nabil-151515?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width:100%;"></a>
