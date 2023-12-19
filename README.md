@@ -1,6 +1,7 @@
 ### 👋 Hey, I'm Hadiur Rahman Nabil
  
-- 🎓 Studying Computer Science and Engineering at [American International University-Bangladesh](https://www.aiub.edu/)
+- 🎓 Studying Computer Science and Engineering at American International University-Bangladesh (AIUB)
+- 💼 Research Intern at Advanced Machine Intelligence Research Lab (AMIRL)
 - 💻 Passionate about Competitive Programming
 - 🧩 Enthusiastic about Problem-Solving
 - 🚀 Driven to explore diverse tech and seek new challenges
@@ -34,7 +35,8 @@
 
    
    ![Others:](https://img.shields.io/badge/Others-151515?style=for-the-badge&logo=other&logoColor=151515) ![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624) ![LaTeX](https://img.shields.io/badge/LaTeX-151515?style=for-the-badge&logo=LaTeX&logoColor=008080) ![Matlab](https://img.shields.io/badge/Matlab-151515?style=for-the-badge&logo=Matlab&logoColor=0076A8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00) ![UML](https://img.shields.io/badge/UML-151515?style=for-the-badge&logo=uml)
+
 
 
 ### Programming
