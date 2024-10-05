@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Hadiur Rahman Nabil
  
-- 🎓 Studying Computer Science and Engineering at American International University-Bangladesh (AIUB)
+- 🎓 Completed Bachelor of Science in Computer Science and Engineering at American International University-Bangladesh (AIUB)
 - 💼 Research Assistant at Advanced Machine Intelligence Research Lab (AMIR Lab)
 - 💻 Passionate about Competitive Programming
 - 🧩 Enthusiastic about Problem-Solving
