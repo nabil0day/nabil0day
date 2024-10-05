@@ -2,7 +2,7 @@
  
 - 🎓 Completed Bachelor of Science in Computer Science and Engineering at American International University-Bangladesh (AIUB)
 - 💼 Research Assistant at Advanced Machine Intelligence Research Lab (AMIR Lab)
-- 💻 Passionate about Competitive Programming
+- 💻 Passionate about Deep Learning & Computer Vision
 - 🧩 Enthusiastic about Problem-Solving
 - 🚀 Driven to explore diverse tech and seek new challenges
 - 🔍 Quick to adapt to changing circumstances and tasks
